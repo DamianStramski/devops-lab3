@@ -1,4 +1,4 @@
 # Informacje o członku zespołu
-Imię: 
-Nazwisko:
-Ulubiona technologia:
+Imię: Damian 
+Nazwisko: Stramski
+Ulubiona technologia: Python
